@@ -1,6 +1,6 @@
 # Fylgja with Webpack
 
-Use [Fylgja](https://fylgja.dev/)'s CSS with [Webpack](https://webpack.js.org/).
+Use [Fylgja](https://fylgja.dev/) with [Webpack](https://webpack.js.org/).
 
 ## How to use
 
