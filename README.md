@@ -6,8 +6,6 @@
 </h1>
 </div>
 
-## Fylgja Examples
-
 Functional examples for using Fylgja with popular tools and frameworks.
 
 ## Directory
