@@ -10,3 +10,7 @@ cd examples/webpack/
 npm install
 npm start
 ```
+
+## Note
+
+This particular version of Webpack is intended solely to demonstrate the necessary configuration needed to run Fylgja in SCSS form.
