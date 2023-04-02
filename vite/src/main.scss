@@ -1,0 +1,21 @@
+@use "@fylgja/theme" with (
+  $color-theme: rebeccapurple,
+  $color-on-theme: white
+);
+
+@use "@fylgja/base";
+@use "@fylgja/details";
+@use "@fylgja/table";
+@use "@fylgja/list";
+
+@use "@fylgja/breadcrumbs";
+@use "@fylgja/pagination";
+@use "@fylgja/avatar";
+@use "@fylgja/button";
+
+@use "@fylgja/container";
+@use "@fylgja/section";
+@use "@fylgja/card";
+
+@use "@fylgja/hashlink";
+@use "@fylgja/utilpack";
