@@ -1,12 +1,12 @@
 # Fylgja with Parcel
 
-Use [Fylgja](https://fylgja.dev/)'s CSS with [Parcel](https://parceljs.org).
+Use [Fylgja](https://fylgja.dev/) with [Webpack Encore](https://github.com/symfony/webpack-encore).
 
 ## How to use
 
 ```sh
 git clone https://github.com/fylgja/examples.git
-cd examples/parcel/
+cd examples/encore/
 npm install
 npm start
 ```
