@@ -1,8 +1,10 @@
 {
-  "name": "webpack",
-  "version": "1.0.0",
+  "name": "webpack-encore",
   "description": "Use Fylgja's CSS with Webpack Encore",
+  "version": "1.0.0",
   "private": true,
+  "repository": "fylgja/examples",
+  "license": "MIT",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "dev-server": "encore dev-server",
@@ -10,9 +12,6 @@
     "watch": "encore dev --watch",
     "build": "encore production --progress"
   },
-  "keywords": [],
-  "author": "grimlink",
-  "license": "MIT",
   "dependencies": {
     "fylgja": "^1.3.0"
   },
