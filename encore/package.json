@@ -1,11 +1,14 @@
 {
   "name": "webpack",
   "version": "1.0.0",
-  "description": "testing webpack with Fylgja",
+  "description": "Use Fylgja's CSS with Webpack Encore",
   "private": true,
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "build": "NODE_ENV=production webpack"
+    "dev-server": "encore dev-server",
+    "dev": "encore dev",
+    "watch": "encore dev --watch",
+    "build": "encore production --progress"
   },
   "keywords": [],
   "author": "grimlink",
