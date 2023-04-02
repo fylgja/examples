@@ -6,7 +6,7 @@ Use [Fylgja](https://fylgja.dev/) with [Parcel](https://parceljs.org).
 
 ```sh
 git clone https://github.com/fylgja/examples.git
-cd examples/encore/
+cd examples/parcel/
 npm install
 npm start
 ```
