@@ -1,0 +1,21 @@
+{
+  "name": "parcel",
+  "description": "Use Fylgja's CSS with Parcel",
+  "version": "1.0.0",
+  "private": true,
+  "repository": "fylgja/examples",
+  "license": "MIT",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "npm run dev",
+    "dev": "parcel serve src/index.html --public-url / -p 3000",
+    "build": "parcel build src/index.html --public-url /"
+  },
+  "dependencies": {
+    "fylgja": "^1.3.0"
+  },
+  "devDependencies": {
+    "@parcel/transformer-sass": "^2.8.3",
+    "parcel": "^2.8.3"
+  }
+}
