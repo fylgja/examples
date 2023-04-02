@@ -1,6 +1,6 @@
 # Fylgja with Parcel
 
-Use [Fylgja](https://fylgja.dev/) with [Webpack Encore](https://github.com/symfony/webpack-encore).
+Use [Fylgja](https://fylgja.dev/) with [Parcel](https://parceljs.org).
 
 ## How to use
 
