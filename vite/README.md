@@ -1,6 +1,6 @@
 # Fylgja with Vite
 
-Use [Fylgja](https://fylgja.dev/) with [Webpack Encore](https://github.com/symfony/webpack-encore).
+Use [Fylgja](https://fylgja.dev/) with [Vite](https://vitejs.dev/).
 
 ## How to use
 
