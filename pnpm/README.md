@@ -25,7 +25,7 @@ While this approach works well for node packages written in JavaScript, it may n
 
 If you want to use [Fylgja] with [PNPM], you'll need to hoist each package to the public pattern. This creates a symlink in the root of node_modules directory so that the same pattern as with NPM works as expected.
 
-To do this, you can create an .npmrc file with;
+To do this, you can create an `.npmrc` file with;
 
 ```properties
 public-hoist-pattern[]=@fylgja/**
