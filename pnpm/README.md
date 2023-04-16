@@ -28,5 +28,5 @@ If you want to use [Fylgja] with [PNPM], you'll need to hoist each package to th
 To do this, you can create an `.npmrc` file with;
 
 ```properties
-public-hoist-pattern[]=@fylgja/**
+public-hoist-pattern[]=@fylgja/*
 ```
