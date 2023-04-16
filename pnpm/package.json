@@ -5,7 +5,7 @@
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "sass main.scss output.css -I node_modules"
+    "start": "sass main.scss dist/output.css -I node_modules"
   },
   "keywords": [],
   "author": "grimlink",

@@ -13,8 +13,8 @@ The steps outlined cover the minimal requirements and configuration needed to ge
 ```sh
 git clone https://github.com/fylgja/examples.git
 cd examples/pnpm/
-npm install
-npm start
+pnpm install
+pnpm start
 ```
 
 ## Setup notes
