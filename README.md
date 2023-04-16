@@ -10,10 +10,10 @@ Functional examples for using Fylgja with popular tools and frameworks.
 
 ## Directory
 
-- [Vite](./vite)
-- [Parcel](./parcel)
-- [Webpack](./webpack)
-- [Webpack Encore](./encore)
-- [PNPM](./pnpm)
+- [Vite](./vite#readme)
+- [Parcel](./parcel#readme)
+- [Webpack](./webpack#readme)
+- [Webpack Encore](./encore#readme)
+- [PNPM](./pnpm#readme)
 
 Something missing on this list, please create a Issue or a Pull Request!
