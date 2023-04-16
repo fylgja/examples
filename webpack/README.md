@@ -1,6 +1,12 @@
-# Fylgja with Webpack
+# [Fylgja] with [Webpack]
 
-Use [Fylgja](https://fylgja.dev/) with [Webpack](https://webpack.js.org/).
+This example demonstrates how to set up [Fylgja] with [Webpack] using [SCSS] syntax.
+
+The steps outlined cover the minimal requirements and configuration needed to get started.
+
+[Fylgja]: https://fylgja.dev/
+[Webpack]: https://webpack.js.org/
+[SCSS]: https://sass-lang.com/
 
 ## How to use
 

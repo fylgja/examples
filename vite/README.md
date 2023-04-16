@@ -1,6 +1,12 @@
-# Fylgja with Vite
+# [Fylgja] with [Vite]
 
-Use [Fylgja](https://fylgja.dev/) with [Vite](https://vitejs.dev/).
+This example demonstrates how to set up [Fylgja] with [Vite] using [SCSS] syntax.
+
+The steps outlined cover the minimal requirements and configuration needed to get started.
+
+[Fylgja]: https://fylgja.dev/
+[Vite]: https://vitejs.dev/
+[SCSS]: https://sass-lang.com/
 
 ## How to use
 

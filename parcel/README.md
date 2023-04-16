@@ -1,6 +1,12 @@
-# Fylgja with Parcel
+# [Fylgja] with [Parcel]
 
-Use [Fylgja](https://fylgja.dev/) with [Parcel](https://parceljs.org).
+This example demonstrates how to set up [Fylgja] with [Parcel] using [SCSS] syntax.
+
+The steps outlined cover the minimal requirements and configuration needed to get started.
+
+[Fylgja]: https://fylgja.dev/
+[Parcel]: https://parceljs.org
+[SCSS]: https://sass-lang.com/
 
 ## How to use
 
