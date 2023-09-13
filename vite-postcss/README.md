@@ -12,7 +12,7 @@ The steps outlined cover the minimal requirements and configuration needed to ge
 
 ```sh
 git clone https://github.com/fylgja/examples.git
-cd examples/vite/
+cd examples/vite-postcss/
 npm install
 npm start
 ```
