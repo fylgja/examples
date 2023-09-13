@@ -1,6 +1,4 @@
-@layer base, components, utilities, config;
-
-@import "@fylgja/sizes/sizes.host.css" layer(config);
+@layer base, components, utilities;
 
 @import "@fylgja/base" layer(base);
 @import "@fylgja/details" layer(base);
@@ -19,7 +17,7 @@
 @import "@fylgja/hashlink" layer(utilities);
 @import "@fylgja/utilpack" layer(utilities);
 
-@layer config {
+@layer base {
     :root {
         --color-theme: rebeccapurple;
         --color-on-theme: white;
