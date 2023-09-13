@@ -1,0 +1,27 @@
+@layer base, components, utilities, config;
+
+@import "@fylgja/sizes/sizes.host.css" layer(config);
+
+@import "@fylgja/base" layer(base);
+@import "@fylgja/details" layer(base);
+@import "@fylgja/table" layer(base);
+@import "@fylgja/list" layer(base);
+
+@import "@fylgja/breadcrumbs" layer(components);
+@import "@fylgja/pagination" layer(components);
+@import "@fylgja/avatar" layer(components);
+@import "@fylgja/button" layer(components);
+
+@import "@fylgja/container" layer(components);
+@import "@fylgja/section" layer(components);
+@import "@fylgja/card" layer(components);
+
+@import "@fylgja/hashlink" layer(utilities);
+@import "@fylgja/utilpack" layer(utilities);
+
+@layer config {
+    :root {
+        --color-theme: rebeccapurple;
+        --color-on-theme: white;
+    }
+}
