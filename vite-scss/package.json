@@ -1,6 +1,6 @@
 {
   "name": "vite",
-  "description": "Use Fylgja's CSS with Wite",
+  "description": "Use Fylgja's CSS with Vite & SCSS",
   "version": "1.0.0",
   "private": true,
   "repository": "fylgja/examples",
