@@ -10,10 +10,12 @@ Functional examples for using Fylgja with popular tools and frameworks.
 
 ## Directory
 
-- [Vite](./vite/README.md)
+- [Vite (SCSS)](./vite-scss/README.md)
+- [Vite (PostCSS)](./vite-postcss/README.md)
 - [Parcel](./parcel/README.md)
+- [PNPM](./pnpm/README.md)
 - [Webpack](./webpack/README.md)
 - [Webpack Encore](./encore/README.md)
-- [PNPM](./pnpm/README.md)
+- [TailwindCSS](./tailwind/README.md)
 
 Something missing on this list, please create a Issue or a Pull Request!
