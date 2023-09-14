@@ -8,8 +8,8 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "npm run dev",
-    "dev": "live-server --no-css-inject & npx tailwindcss -i ./src/main.css -o ./dist/main.css --watch",
-    "build": "npx tailwindcss -i ./src/main.css -o ./dist/main.css"
+    "dev": "live-server --no-css-inject & npx tailwindcss -i ./tailwind-source.css -o ./main.css --watch",
+    "build": "npx tailwindcss -i ./tailwind-source.css -o ./main.css"
   },
   "dependencies": {
     "fylgja": "^1.3.0"
