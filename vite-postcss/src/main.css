@@ -1,5 +1,9 @@
 @layer base, components, utilities;
 
+@import "@fylgja/fonts" layer(base);
+@import "@fylgja/sizes" layer(base);
+@import "@fylgja/colors/hsl" layer(base);
+
 @import "@fylgja/base" layer(base);
 @import "@fylgja/details" layer(base);
 @import "@fylgja/table" layer(base);
@@ -19,7 +23,7 @@
 
 @layer base {
     :root {
-        --color-theme: rebeccapurple;
-        --color-on-theme: white;
+        --color-theme: hsl(var(--purple-9-hsl));
+        --color-on-theme: hsl(var(--purple-1-hsl));
     }
 }
