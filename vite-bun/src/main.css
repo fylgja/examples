@@ -1,0 +1,17 @@
+@layer base, components, utilities;
+
+@import "@fylgja/colors/hsl" layer(base);
+@import "@fylgja/base" layer(base);
+
+@import "@fylgja/button" layer(components);
+@import "@fylgja/container" layer(components);
+@import "@fylgja/card" layer(components);
+
+@import "@fylgja/utilpack" layer(utilities);
+
+@layer base {
+	:root {
+		--color-theme: hsl(var(--purple-9-hsl));
+		--color-on-theme: hsl(var(--purple-1-hsl));
+	}
+}

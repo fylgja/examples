@@ -1,0 +1,26 @@
+{
+  "name": "vite-bun",
+  "description": "Use Fylgja's CSS with Bun and Vite",
+  "version": "1.0.0",
+  "private": true,
+  "repository": "fylgja/examples",
+  "license": "MIT",
+  "type": "module",
+  "scripts": {
+    "start": "npm run dev",
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "@fylgja/base": "^1.1.2",
+    "@fylgja/button": "^1.2.8",
+    "@fylgja/card": "^1.3.0",
+    "@fylgja/colors": "^1.1.3",
+    "@fylgja/container": "^1.1.4",
+    "@fylgja/utilpack": "^1.2.1"
+  },
+  "devDependencies": {
+    "vite": "^5.2.0"
+  }
+}
