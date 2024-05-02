@@ -1,0 +1,8 @@
+@import "tailwindcss";
+@import "@fylgja/container" layer(components);
+@import "@fylgja/button" layer(components);
+@import "@fylgja/card" layer(components);
+
+@theme {
+	--color-blue-800: oklch(0.42 0.18 265.64);
+}
