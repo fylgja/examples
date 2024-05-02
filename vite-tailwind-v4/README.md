@@ -21,7 +21,3 @@ cd examples/vite-tailwind-v4/
 npm install
 npm start
 ```
-
-## Try in the browser
-
-[![Open in StackBlitz](https://developer.stackblitz.com/img/open_in_stackblitz.svg)](https://stackblitz.com/github/fylgja/examples/tree/main/vite-tailwind-v4?file=index.html)
