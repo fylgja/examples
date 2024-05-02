@@ -12,6 +12,7 @@ Functional examples for using Fylgja with popular tools and frameworks.
 
 - [Vite (SCSS)](./vite-scss/README.md)
 - [Vite (PostCSS)](./vite-postcss/README.md)
+- [Vite (Bun)](./vite-bun/README.md)
 - [Parcel](./parcel/README.md)
 - [PNPM](./pnpm/README.md)
 - [Webpack](./webpack/README.md)
