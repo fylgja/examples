@@ -8,6 +8,8 @@ The steps outlined cover the minimal requirements and configuration needed to ge
 [Bun]: https://bun.sh/
 [Vite]: https://vitejs.dev/
 
+This follow a similar set of steps from https://bun.sh/guides/ecosystem/vite
+
 ## How to use
 
 ```sh
@@ -16,7 +18,3 @@ cd examples/vite-bun/
 bun install
 bun start
 ```
-
-## Try in the browser
-
-[![Open in StackBlitz](https://developer.stackblitz.com/img/open_in_stackblitz.svg)](https://stackblitz.com/github/fylgja/examples/tree/main/vite-bun?file=src%2Findex.html)
