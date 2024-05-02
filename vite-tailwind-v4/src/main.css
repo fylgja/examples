@@ -5,4 +5,7 @@
 
 @theme {
 	--color-blue-800: oklch(0.42 0.18 265.64);
+
+	--color-primary: var(--color-blue-800);
+	--color-on-primary: var(--color-blue-50);
 }
