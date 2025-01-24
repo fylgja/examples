@@ -20,3 +20,5 @@ npm start
 ## Try in the browser
 
 [![Open in StackBlitz](https://developer.stackblitz.com/img/open_in_stackblitz.svg)](https://stackblitz.com/github/fylgja/examples/tree/main/vite-postcss?file=src%2Findex.html)
+
+[![Open in Codeanywhere](https://codeanywhere.com/img/open-in-codeanywhere-btn.svg)](https://app.codeanywhere.com/#https://github.com/fylgja/examples/tree/main/vite-postcs)
